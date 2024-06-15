@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Madi</h1>
+<h1 align="center">akiyama</h1>
 <h3 align="center">Developer from Kazakhstan</h3>
 
 <h3 align="left">Connect with me:</h3>
