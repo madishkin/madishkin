@@ -1,5 +1,4 @@
 <h1 align="center">akiyama</h1>
-<h3 align="center">Developer from Kazakhstan</h3>
 
 <p align="left">
 </p>
