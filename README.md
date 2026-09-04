@@ -1,7 +1,7 @@
 <h1 align="center">I'm backend developer & SE student</h1>
 <h3 align="center">focused on backend systems, Python</h3>
 
-- 🔭 I’m currently working on **Forge(lightweight deployment runner)**
+- 🔭 I’m currently working on **Forge (lightweight deployment runner)**
 
 - 🌱 I’m currently learning **Backend architecture, databases, and core system mechanics**
 
