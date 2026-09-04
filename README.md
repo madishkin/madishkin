@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Backend architecture, databases, and core system mechanics**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
