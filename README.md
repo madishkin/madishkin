@@ -3,7 +3,7 @@
 Backend developer building asynchronous services with FastAPI, PostgreSQL and Redis. Interested in distributed systems, LLM integrations and scalable backend architecture.
 
 ### 🏆 Achievements
-- 🥈 **2nd Place (Silver Medal)** — WorldSkills Kazakhstan (Astana)
+- 🥈 2nd Place — WorldSkills Kazakhstan · IT Solutions for Business
 
 ---
 
