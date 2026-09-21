@@ -12,6 +12,6 @@ Backend developer building asynchronous services with FastAPI, PostgreSQL and Re
 - **Languages:** Python 3.11+, SQL, Bash
 - **Backend:** FastAPI, Django REST Framework, SQLAlchemy (Async), Alembic, Pydantic
 - **Databases & Storage:** PostgreSQL, Redis
-- **Infrastructure & Tools:** Docker, Docker Compose, Linux, Git, Cursor / Claude Code
+- **Infrastructure & Tools:** Docker, Docker Compose, Linux, Git, Antigravity
 
 ---
