@@ -1,6 +1,6 @@
 # Madi | Backend Software Engineer
 
-Backend engineer focused on building robust, asynchronous services in Python and designing scalable data architectures.
+Backend developer building asynchronous services with FastAPI, PostgreSQL and Redis. Interested in distributed systems, LLM integrations and scalable backend architecture.
 
 ### 🏆 Achievements
 - 🥈 **2nd Place (Silver Medal)** — WorldSkills Kazakhstan (Astana)
