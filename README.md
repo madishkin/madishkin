@@ -1,24 +1,17 @@
-<h1 align="center">I'm backend developer & SE student</h1>
-<h3 align="center">focused on backend systems, Python</h3>
+# Madi | Backend Software Engineer
 
-🔭 I’m currently working on **Forge**
+Backend engineer focused on building robust, asynchronous services in Python and designing scalable data architectures.
 
-🌱 I’m currently learning **Backend architecture, databases, and core system mechanics**
+### 🏆 Achievements
+- 🥈 **2nd Place (Silver Medal)** — WorldSkills Kazakhstan (Astana)
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-</p>
+### 🛠 Tech Stack
+
+- **Languages:** Python 3.11+, SQL, Bash
+- **Backend:** FastAPI, Django REST Framework, SQLAlchemy (Async), Alembic, Pydantic
+- **Databases & Storage:** PostgreSQL, Redis
+- **Infrastructure & Tools:** Docker, Docker Compose, Linux, Git, Cursor / Claude Code
+
+---
